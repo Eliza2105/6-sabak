@@ -1,0 +1,43 @@
+body{
+    background-color: burlywood;
+    margin:0;
+}
+
+.header{
+    width: auto;
+    height: 100px;
+    background-color: cadetblue;
+    
+}
+.content-one{
+    width: auto;
+    height: auto;
+    background-color: rgb(80, 197, 255);
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+    
+
+}
+.block{
+    width: 250px;
+    height: 250px;
+    border: 2px solid;
+    margin:100px 50px 100px 50px ;
+    border-radius: 50%;
+
+    
+}
+.one{
+    background-color: brown;
+}
+.two{
+    background-color: blue;
+}
+.three{
+    background-color: gold;
+}
+.for{
+    background-color: red;
+}
